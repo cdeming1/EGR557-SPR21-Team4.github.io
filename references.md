@@ -1,5 +1,3 @@
-title: References
-
 ## References
 
 1. A. M. Hoover, E. Steltz, and R. S. Fearing, “RoACH: An autonomous 2.4g crawling hexapod
