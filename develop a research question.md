@@ -1,10 +1,14 @@
 ##Team 4 Research Question
 
 Research Question
+
 Original Research Question:
+
 ● How can we use foldable robotic techniques to design a compressible robot capable of
 navigating through tight spaces?
+
 Refined Research Question:
+
 ● How can folding techniques be used to design self-collapsible robots capable of scaling
 tight and inclined spaces?
 
