@@ -1,5 +1,3 @@
-title: Team and Contact Information
-
 # Team Members:
 Feba Raju Abraham 
 Charlotte Deming
