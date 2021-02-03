@@ -8,7 +8,7 @@ title: Home
 
 ## Team Members and Contact Infomation
 
-[link to team and contact](Create team and contact.md)
+[link to team and contact](https://github.com/EGR557-SPR21-Team4/EGR557-SPR21-Team4.github.io/blob/main/team%20and%20contact.md)
 
 **Bold Text**
 _Italic Text_
