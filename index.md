@@ -6,21 +6,26 @@ title: Home
 
 ## Introduction
 
+## Team Members and Contact Infomation
+
+[link to team and contact](/team and contact)
+
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
 ## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+Orginal:
+* How can we use foldable robotic techiques to design a compressible robot capable of navigating through tight spaces?
+Refined:
+* How can folding techniques be used to design self-collapsible robots capable of scaling tight and inclinded spaces?
 
 ## Background
 
-[![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png){target="_blank"}
+## Previous Assignments
 
-[link to background](/background)
+[link to develop a research question](/develop a research question)
+[link to biomechanics background and initial specifications](/biomechanics background and initial specifications)
 
 ## Results
 
@@ -32,7 +37,6 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
-
-
 ## References
+
+
