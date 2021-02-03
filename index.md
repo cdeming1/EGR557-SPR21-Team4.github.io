@@ -8,7 +8,7 @@ title: Home
 
 ## Team Members and Contact Infomation
 
-[link to team and contact](/team and contact.md)
+[link to team and contact](/team and contact)
 
 **Bold Text**
 _Italic Text_
@@ -24,8 +24,8 @@ Refined:
 
 ## Previous Assignments
 
-[link to develop a research question](/develop a research question.md)
-[link to biomechanics background and initial specifications](/biomechanics background and initial specifications.md)
+[link to develop a research question](/develop a research question)
+[link to biomechanics background and initial specifications](/biomechanics background and initial specifications)
 
 ## Results
 
