@@ -1,5 +1,3 @@
-title: Develop A Research Question.md
-
 ##Team 4 Research Question
 
 Research Question
