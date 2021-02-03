@@ -12,6 +12,7 @@ Refined Research Question:
 ● How can folding techniques be used to design self-collapsible robots capable of scaling
 tight and inclined spaces?
 
+
 #Tractability
   Our team has refined the initial research question by focusing more on tightly inclined spaces.
 Although our robot design will still have the ability to pass through tight spaces, it will focus more on
