@@ -4,5 +4,5 @@
 -Dru Keister
 -Andrei Marinescu 
 
-##Discord
+## Discord
 Discord is used as the primary form of contact for this group. Each team member has already responded and communicated through that service effectively. 
